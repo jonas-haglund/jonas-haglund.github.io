@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/publications.md
+    url: /publications/publications.yml
 #   url: https://scholar.google.com/citations?user=J86yFlkAAAAJ
 
 #  - title: "Talks"
