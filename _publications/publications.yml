@@ -1,1 +1,0 @@
-A case study of how one can formally verify sufficient conditions that a device driver of the network interface controller (NIC) can satisfy to ensure that the NIC can access only certain memory regions.
