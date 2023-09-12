@@ -1,7 +1,7 @@
 ---
 title: "Trustworthy Isolation of DMA Enabled Devices"
 collection: publications
-permalink: "publications/paper1"
+permalink: "publication/paper1"
 date: 2019-12-03
 paperurl: https://link.springer.com/chapter/10.1007/978-3-030-36945-3_3
 ---
