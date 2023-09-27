@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Jonas.
+I am a postdoctoral researcher in the Systems Software Research Group at Virginia Tech. My research interest concerns construction of reliable computers; more specifically, low-level software (e.g. operating systems software configuring hardware), hardware (e.g. I/O devices) and formal verification (mainly interactive theorem proving).
