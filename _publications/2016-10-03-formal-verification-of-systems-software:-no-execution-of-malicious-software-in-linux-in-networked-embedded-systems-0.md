@@ -6,4 +6,4 @@ date: 2016-10-03
 #venue: 'Formal Methods in Computer-Aided Design'
 paperurl: 'https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1045316&dswid=9694'
 ---
-Master's thesis.
+Master's thesis describing a model of a direct memory access controller (DMAC) of a network interface controller (NIC), the implementation of a monitor in a hypervisor to prevent Linux from configuring the DMAC to break isolation and inject untrusted code, and a description of how it can be formally verified that in this system Linux can execute trusted code only. The thesis is based on previous work that has formally verified that Linux executes only trusted code where there is no NIC and DMAC.
